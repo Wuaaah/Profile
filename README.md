@@ -53,23 +53,6 @@ Currently leveling up my skills, contributing to projects, and exploring modern 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuaLapitan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaLapitan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=joshuaLapitan&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🧠 What I'm Working On
 
 - 🔨 Building full-stack web apps using **Laravel + React**
@@ -82,12 +65,10 @@ Currently leveling up my skills, contributing to projects, and exploring modern 
 
 ## 🌱 Currently Learning
 
-```text
-React Ecosystem    ████████████░░░░  Advanced Hooks, Context, React Query
-Laravel Deep Dive  ████████░░░░░░░░  Eloquent ORM, Queues, Testing
-UI/UX Design       ██████████░░░░░░  Figma Prototyping, Design Systems
-API Development    ███████░░░░░░░░░  REST, Authentication, Versioning
-```
+- ⚛️ **React Ecosystem** — Advanced Hooks, Context API, React Query
+- 🔧 **Laravel Deep Dive** — Eloquent ORM, Queues, Testing
+- 🎨 **UI/UX Design** — Figma Prototyping, Design Systems
+- 🌐 **API Development** — REST, Authentication, Versioning
 
 ---
 
@@ -108,9 +89,9 @@ API Development    ███████░░░░░░░░░  REST, Authe
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaLapitan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuaLapitan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuaLapitan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapitanjoshua2005@gmai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lapitan-joshua-a46946394/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wuaaah)
 
 </div>
 
@@ -122,6 +103,5 @@ API Development    ███████░░░░░░░░░  REST, Authe
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Profile Views](https://komarev.com/ghpvc/?username=joshuaLapitan&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
